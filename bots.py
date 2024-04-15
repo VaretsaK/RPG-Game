@@ -14,7 +14,7 @@ class Bot:
         __drop_item_probability (float): Probability that the bot will drop an item upon defeat, set to 95%.
     """
     _type: str = "bot"
-    __drop_item_probability: float = 1 if random.random() <= 0.95 else 0  # 5% probability
+    __drop_item_probability: float = 1 if random.random() <= 0.05 else 0  # 5% probability
 
     def __init__(self) -> None:
         """
