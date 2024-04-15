@@ -1,4 +1,4 @@
-# RPG-Gameg
+# RPG-Game
 
 Here's a template for a `README.md` file for your game, detailing essential information such as the project description, installation steps, usage instructions, and more. This format will help users understand how to set up and interact with your game.
 
@@ -80,16 +80,3 @@ Project Link: [https://github.com/yourusername/your-project-name](https://github
 
 - [Python](https://python.org)
 - [Vlad Ushakov MindCode School](https://www.instagram.com/vlad.ushakov.it/)
-
-```
-
-### Key Points to Consider:
-
-- **Project Description**: The `README` starts with a clear description of the game and its purpose.
-- **Features List**: Detailed features help potential players understand what the game offers.
-- **Installation and Setup**: Straightforward installation and setup instructions make it easy for users to get started.
-- **Usage**: Detailed usage instructions guide the users on how to interact with the game effectively.
-- **Contributing**: Guidelines on how others can contribute to the project.
-- **License and Contact Info**: Important for those interested in using or contributing to your project.
-
-This `README.md` file should provide all the necessary information for anyone interested in using or contributing to your game.
