@@ -28,7 +28,7 @@ Ensure you have Python 3.7+ installed on your machine. You can download it from 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/VaretsaK/RPG-Game.git
    cd path-to-your-game-folder
    ```
 
