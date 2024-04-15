@@ -73,8 +73,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/your-project-name](https://github.com/yourusername/your-project-name)
+Kostiantyn Varetsa
+Project Link: [https://github.com/VaretsaK/RPG-GAME](https://github.com/VaretsaK/RPG-Game)
 
 ## Acknowledgements
 
